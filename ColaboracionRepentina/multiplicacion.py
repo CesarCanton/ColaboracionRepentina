@@ -1,3 +1,3 @@
-def multiplicacin (x, y):
+def multiplicacin(x, y):
     return(x*y)
     #Multiplicacion
